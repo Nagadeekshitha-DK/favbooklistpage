@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-card {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 100;
+    padding: 10px;
+}
+
+.h1 {
+    font-family: "Roboto";
+    color: #183b56;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.bg-card-h1 {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.wings-card-edit {
+    background-color: #e6f6ff;
+    background-size: cover;
+    height: 35vh;
+    border-radius: 10px;
+}
+
+.wings-image-edit {
+    height: 154px;
+    background-size: cover;
+    width: 100px;
+}
+
+.wings-card-h1-edit {
+    font-family: "Bree Serif";
+    color: #183b56;
+    font-size: 20px;
+
+}
+
+.wings-card-p-edit {
+    font-family: "Bree Serif";
+    color: #06070d;
+    font-size: 15px;
+}
+
+.wings-card-h4-edit {
+    font-family: "Bree Serif";
+    color: #183b56;
+    font-size: 12px;
+}
+
+.recommended-card-h1 {
+    font-family: "Bree Serif";
+    color: #ffffff;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.recommended-card-h2 {
+    font-family: "Bree Serif";
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.recommended-card-p {
+    font-family: "Bree Serif";
+    color: #e4e7eb;
+    font-size: 12px;
+}
+
+.wings-next-image-edit {
+    height: 254px;
+    background-size: cover;
+    width: 180px;
+}
